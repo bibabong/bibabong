@@ -2,14 +2,15 @@
 	"packageUrl" : "https://raw.githubusercontent.com/bibabong/bibabong/master/jumpgogo-ios",    
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/bibabong/bibabong/master/jumpgogo-ios/version.manifest",    
 	"remoteManifestUrl" : "https://raw.githubusercontent.com/bibabong/bibabong/master/jumpgogo-ios/project.manifest",    
-	"version" : "1.0.3",    
+	"appVersion" : "1.0.0",    
+	"resVersion" : "1.0.1",    
 
 	"assets" : {
 		"game.zip" : {
-			"md5" : "859e723c7f0957c7b33fd2edca2235fe"
+			"md5" : "8f990cbfb418b1c1c03046f85b87b524"
 		}, 
 		"game64.zip" : {
-			"md5" : "76d3ec66e924e7b3dcbd974ab7345f14"
+			"md5" : "5696a3b0d73cc1eb71f9fcc8399b1171"
 		}, 
 		"images.plist" : {
 			"md5" : "28d74afce8e080d445ed6d3139942f79"
@@ -18,10 +19,10 @@
 			"md5" : "7f5cedc88bec72be62fd06793d09899e"
 		}, 
 		"load_bg.plist" : {
-			"md5" : "00e42b36e5059bec2f9e790f2e6d58fd"
+			"md5" : "d90f93d0c3f657a25ae50261bbd6838d"
 		}, 
 		"load_bg.pvr.ccz" : {
-			"md5" : "32357b102857ed822a7626b8d908ed42"
+			"md5" : "822d68cd69061e9f311fbf9d16cefae4"
 		}
 	},    
 	"searchPaths" : [    

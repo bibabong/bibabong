@@ -7,7 +7,7 @@
             <key>load_bg.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{1334,750}}</string>
+                <string>{{0,0},{1334,750}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -25,9 +25,9 @@
             <key>realTextureFileName</key>
             <string>load_bg.pvr.ccz</string>
             <key>size</key>
-            <string>{1338,754}</string>
+            <string>{1334,750}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:7cdc0f88fb09eaea04bb71b616a8cc7b:1/1$</string>
+            <string>$TexturePacker:SmartUpdate:22fa2b3a08e29c30007fcfbb6b6c6f3d:1/1$</string>
             <key>textureFileName</key>
             <string>load_bg.pvr.ccz</string>
         </dict>
