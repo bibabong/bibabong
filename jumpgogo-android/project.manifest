@@ -1,0 +1,30 @@
+{    
+	"packageUrl" : "https://raw.githubusercontent.com/bibabong/bibabong/master/jumpgogo-android",    
+	"remoteVersionUrl" : "https://raw.githubusercontent.com/bibabong/bibabong/master/jumpgogo-android/version.manifest",    
+	"remoteManifestUrl" : "https://raw.githubusercontent.com/bibabong/bibabong/master/jumpgogo-android/project.manifest",    
+	"appVersion" : "1.0.0",    
+	"resVersion" : "1.0.1",    
+
+	"assets" : {
+		"game.zip" : {
+			"md5" : "6face567c8cd819ebfb1295a582f8846"
+		}, 
+		"game64.zip" : {
+			"md5" : "5799a164ef5cab12c867d1777d4bb1f7"
+		}, 
+		"images.plist" : {
+			"md5" : "28d74afce8e080d445ed6d3139942f79"
+		}, 
+		"images.pvr.ccz" : {
+			"md5" : "7f5cedc88bec72be62fd06793d09899e"
+		}, 
+		"load_bg.plist" : {
+			"md5" : "d90f93d0c3f657a25ae50261bbd6838d"
+		}, 
+		"load_bg.pvr.ccz" : {
+			"md5" : "822d68cd69061e9f311fbf9d16cefae4"
+		}
+	},    
+	"searchPaths" : [    
+	]    
+}

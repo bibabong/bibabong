@@ -1,0 +1,7 @@
+{    
+	"packageUrl" : "https://raw.githubusercontent.com/bibabong/bibabong/master/jumpgogo-android",    
+	"remoteVersionUrl" : "https://raw.githubusercontent.com/bibabong/bibabong/master/jumpgogo-android/version.manifest",    
+	"remoteManifestUrl" : "https://raw.githubusercontent.com/bibabong/bibabong/master/jumpgogo-android/project.manifest",    
+	"appVersion" : "1.0.0",    
+	"resVersion" : "1.0.1"
+}
